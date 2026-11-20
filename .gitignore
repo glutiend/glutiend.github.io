@@ -4,6 +4,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Toolchain Tailwind (build locale)
+input.css
+tailwind.config.js
+postcss.config.js
+package.json
+package-lock.json
+
 # Configurazioni IDE / Editor
 .vscode/
 .idea/
