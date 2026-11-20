@@ -1,0 +1,26 @@
+# Dipendenze Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configurazioni IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build / File binari locali pesanti
+assets/apk/
+*.apk
+
+# File di sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# File temporanei e log
+*.log
+.temp/
+.tmp/
